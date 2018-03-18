@@ -11,4 +11,7 @@ the trick for the staggering 84x48 resolution with 1 bit color depth.
 
 Excuse my messy code. It just works.
 
+Full description available on my website :
+  https://saracut.ro/2015/07/28/flappy-chip-arduino-game/
+
 Copyright (c) 2013 Stelian Saracut
